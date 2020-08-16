@@ -1,0 +1,10 @@
+{
+    "perl" : "6.c" ,
+    "name" : "Telegram Markov bot",
+    "description" : "Markov chain based Telegram bot",
+    "version" : "0.0.1",
+    "provides" : {},
+    "depends" : [
+        "Text::Markov"
+    ]
+}
